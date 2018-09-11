@@ -12,7 +12,7 @@ https://us.ishadowx.net/
 
 generate ss_cfg.json, shadowsocks.xml and shadowsocks.plist
 
-2. ``./run.sh`
+2. `./run.sh`
 
 ## References
 
