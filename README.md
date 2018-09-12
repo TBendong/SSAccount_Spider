@@ -5,7 +5,7 @@
 
 1. Install ShadowsocksX client
 
-下载地址：http://160.16.231.71/ssx-2.6.3.dmg
+Download：http://160.16.231.71/ssx-2.6.3.dmg
 
 2. run `python Spider.js` to get proxies list
 
