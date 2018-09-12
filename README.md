@@ -1,18 +1,18 @@
 # SSAccount_Spider
 这是一个mac版shadowsocks账号爬虫工具，爬取xx.ishadowx.net的免费ss账号并导入到shadowsocks客户端<br>
 
-## SS App
-download ShadowsocksX:
-https://us.ishadowx.net/
-
 ## Usage
-依赖包：bs4，安装：`pip install bs4`
 
-1. `python Spider.js`
+1. Install ShadowsocksX client
 
-generate ss_cfg.json, shadowsocks.xml and shadowsocks.plist
+下载地址：http://160.16.231.71/ssx-2.6.3.dmg
 
-2. `./run.sh`
+2. run `python Spider.js` to get proxies list
+
+This script will generate ss_cfg.json, shadowsocks.xml and shadowsocks.plist.
+Note: it has dependency on bs4, you should install bs4 at first: `pip install bs4`
+
+3. run `./run.sh` to import proxies into ShadowsocksX client
 
 ## References
 
