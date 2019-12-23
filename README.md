@@ -1,5 +1,5 @@
 # SSAccount_Spider
-这是一个mac版shadowsocks账号爬虫工具，爬取***xx.ishadowx.net*** get.ishadowx.biz的免费ss账号并导入到shadowsocks客户端<br>
+这是一个mac版shadowsocks账号爬虫工具，爬取 get.ishadowx.biz的免费ss账号并导入到shadowsocks客户端<br>
 
 ## Usage
 
