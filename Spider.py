@@ -6,7 +6,7 @@ import base64;
 import os;
 import xml.dom.minidom as xmlParser;
 try:
-    conn=httplib.HTTPSConnection('us.ishadowx.net',timeout=10);
+    conn=httplib.HTTPSConnection('get.ishadowx.biz',timeout=10);
     conn.request("GET","/");
 except Exception as ex:
     print "please check if the internet is ok";
