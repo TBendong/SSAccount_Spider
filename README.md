@@ -61,7 +61,7 @@ pip install bs4
 启动之后会在系统状态栏上看到一个Shadowsocks的图标，点击"Turn Shadowsocks On"即可激活PAC，就是设置了全局代理。
 启动之后点击Shadowsocks这个图标，如果看到处于`Shadowsocks Off`的状态（如下图），这个并不是说明Shadowsocks没有打开，只是说明PAC关闭状态。
 
-![](images/1.png)
+![](images/1.png =250x)
 
 推荐的使用的方式是，
 
@@ -69,7 +69,7 @@ pip install bs4
 - 保持`Auto Proxy Mode`
 - Chrome浏览器使用扩展程序 SwitchySharp或者 VPN.S HTTP Proxy设置代理127.0.0.1:1080 上，代理类型为 SOCKS v5。如下图：
 
-![](images/2.png)
+![](images/2.png =500x)
 
 ## 问题答疑
 
