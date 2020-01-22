@@ -1,0 +1,61 @@
+{
+    "current": 1,
+    "profiles": [
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-77741472",
+            "remarks": "",
+            "server": "a.isxb.top",
+            "server_port": "17931"
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-72120068",
+            "remarks": "",
+            "server": "b.isxb.top",
+            "server_port": "10417"
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-92387749",
+            "remarks": "",
+            "server": "c.isxb.top",
+            "server_port": "12610"
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-91180431",
+            "remarks": "",
+            "server": "a.isxc.top",
+            "server_port": "11483"
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-02598956",
+            "remarks": "",
+            "server": "b.isxc.top",
+            "server_port": "16474"
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-01314631",
+            "remarks": "",
+            "server": "c.isxc.top",
+            "server_port": "14997"
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-91180431",
+            "remarks": "",
+            "server": "a.isxc.top",
+            "server_port": "11483"
+        },
+        {
+            "method": "aes-256-cfb",
+            "password": "isx.yt-92387749",
+            "remarks": "",
+            "server": "c.isxb.top",
+            "server_port": "12610"
+        }
+    ]
+}
